@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+# Hallo, ich bin Max.
+Ich bin leidenschaftlicher Gamer, Programmierer und Hardwarenerd.
+Alles was mit Technik und Videospielen zu tun hat interessiert mich brennend.
+In diesem Blog möchte ich meine Erfahrungen rund um diese Welt teilen! 
