@@ -2,12 +2,12 @@
 
 ## Der neuste Warbond in Helldivers ist heute erschienen, hier alle Details zu dem Warbond
 
-![GrenzwertigeGerechtigkeitWarbondFrontPage](images/GrenzwertigeGerechtigkeitWarbondFrontPage.png)
+![GrenzwertigeGerechtigkeitWarbondFrontPage]({{ site.baseurl }}/assets/images/GrenzwertigeGerechtigkeitWarbondFrontPage.png)
 
 ### Die Inhalte der Warbond Pages
 #### Page Eins
 
-![GrenzwertigeGerechtigkeitWarbondFrontPage](images/GrenzwertigeGerechtigkeitWarbondPageOne.png)
+![GrenzwertigeGerechtigkeitWarbondFrontPage]({{ site.baseurl }}/assets/images/GrenzwertigeGerechtigkeitWarbondPageOne.png)
 
 Hier erhalten wir:
 - 100 Super Credits
@@ -36,7 +36,7 @@ Hier erhalten wir:
 
 #### Page Zwei
 
-![GrenzwertigeGerechtigkeitWarbondFrontPage](images/GrenzwertigeGerechtigkeitWarbondPageTwo.png)
+![GrenzwertigeGerechtigkeitWarbondFrontPage]({{ site.baseurl }}/assets/images/GrenzwertigeGerechtigkeitWarbondPageTwo.png)
 
 Hier erhalten wir:
 - GS-66 Gesetzgeber Helm
@@ -63,7 +63,7 @@ Hier erhalten wir:
 
 #### Page Dreit
 
-![GrenzwertigeGerechtigkeitWarbondFrontPage](images/GrenzwertigeGerechtigkeitWarbondPageThree.png)
+![GrenzwertigeGerechtigkeitWarbondFrontPage]({{ site.baseurl }}/assets/images/GrenzwertigeGerechtigkeitWarbondPageThree.png)
 
 Hier erhalten wir:
 - TED-63-Dynamit Wurfwaffe
