@@ -1,6 +1,6 @@
-# 🛠 Iron Harvest Review
+# Iron Harvest Review
 
-## 🧭 Zusammenfassung  
+## Zusammenfassung  
 **Iron Harvest** dieses Dieselpunk Spiel katapultiert uns in eine alternative Version der 1920er Jahre, in der gigantische dieselbetriebene Mechs die 
 Schlachtfelder dominieren. 
 Statt moderner Technologie verlässt sich die Welt auf stampfende Stahlkolosse auf zwei oder mehr Beinen – das Rad? Offenbar in Vergessenheit geraten.
@@ -40,69 +40,97 @@ man spürt förmlich das Gewicht jedes Schrittes.
 
 ### Gameplay
 🟩 Hervorragend
+
 ⬜ Anspruchsvoll
+
 ⬜ Durchschnittlich
+
 ⬜ Eintönig
+
 ⬜ Unspielbar
 
 Wer auf taktische Tiefe steht, wird hier definitiv fündig. Die Mischung aus Deckungsmechaniken, cleverem Ressourcenspiel und spannenden Mech-Gefechten 
 sorgt für viel Spieltiefe – sowohl im Single- als auch im Multiplayer.
 
 ### Sound & Musik
-🟩 Ohrenschmaus
-⬜ Stimmungsvolle Mittelaltermusik
+⬜ Ohrenschmaus
+
+🟩 Stimmungsvoll
+
 ⬜ Durchschnittlich
+
 ⬜ Nichts Besonderes
+
 ⬜ Grauenhaft
 
 Der Soundtrack ist episch und unterstreicht die melancholische Kriegsatmosphäre perfekt. Die Soundeffekte der Mechs? Wuchtig und satisfying.
 
 👨‍👩‍👦 Zielgruppe
 ⬜ Kinderfreundlich
+
 🟩 Jugendliche & Erwachsene
+
 ⬜ Nur für Hardcore-Spieler
+
 ⬜ Oma würde es lieben
 
 Wer Strategie mag, Mechs cool findet und gerne in alternative Geschichtssettings eintaucht, ist hier genau richtig.
 
 🖥️ Systemanforderungen
 ⬜ Läuft auf einem Toaster
+
 ⬜ Anspruchslos
+
 🟩 Mittelklasse-PC empfohlen
+
 ⬜ Hardware-Hungrig
+
 ⬜ Braucht eine NASA-Workstation
 
 Auf einem halbwegs aktuellen Rechner läuft Iron Harvest solide – die grafische Pracht will aber trotzdem befeuert werden.
 
 ⏳ Spielzeit
 ⬜ Kurz
+
 🟩 Durchschnittlich
+
 ⬜ Lang
+
 ⬜ Extrem umfangreich
 
 Allein die Kampagne bietet viele Stunden Inhalt – dazu kommt ein Multiplayer-Modus, der sich auf Dauer richtig entfaltet.
 
 💰 Preis-Leistungs-Verhältnis
 🟩 Jeden Cent wert
+
 ⬜ Nur im Angebot
+
 ⬜ Überteuert
+
 ⬜ Geldverschwendung
 
 Für Fans klassischer RTS mit frischer Idee lohnt sich der Kauf auf jeden Fall – und wenn man es noch im Sale bekommt: Jackpot!
 
 ### Bugs & technische Fehler
 🟩 Fehlerfrei
+
 ⬜ Kleinere Bugs
+
 ⬜ Störend
+
 ⬜ Absolut unspielbar
 
 Bei meinem Durchlauf lief alles rund – keine Abstürze, keine KI-Aussetzer, einfach stabil.
 
 ### Worldbuilding
 🟩 Faszinierend & originell
+
 ⬜ Solide
+
 ⬜ Klischeehaft
+
 ⬜ Belanglos
+
 ⬜ Nicht vorhanden
 
 Die Dieselpunk-Welt mit alternativer Geschichte und einzigartigen Fraktionen fühlt sich lebendig und durchdacht an. Jede Nation hat ihre Eigenheiten, 
@@ -110,7 +138,7 @@ optisch wie spielerisch.
 
 ---
 
-## 🧾 Fazit  
+## Fazit  
 
 **Iron Harvest** macht strategisch extrem viel richtig. Das Gameplay ist durchdacht, abwechslungsreich und fühlt sich einfach gut an – 
 vor allem, wenn die riesigen Mechs durch die Landschaft stapfen und gegnerische Stellungen in Schutt und Asche legen.
