@@ -30,9 +30,13 @@ Wer clever expandiert und seine Einheiten sinnvoll kombiniert, dominiert das Sch
 
 ### Grafik
 🟩 Atemberaubend
+
 ⬜ Detailverliebt
+
 ⬜ Durchschnittlich
+
 ⬜ Veraltet
+
 ⬜ MS-DOS
 
 Die Welt von Iron Harvest ist nicht nur stimmungsvoll, sondern auch beeindruckend detailliert. Besonders die Mechs wirken massiv und wuchtig – 
@@ -65,7 +69,7 @@ sorgt für viel Spieltiefe – sowohl im Single- als auch im Multiplayer.
 
 Der Soundtrack ist episch und unterstreicht die melancholische Kriegsatmosphäre perfekt. Die Soundeffekte der Mechs? Wuchtig und satisfying.
 
-👨‍👩‍👦 Zielgruppe
+### Zielgruppe
 ⬜ Kinderfreundlich
 
 🟩 Jugendliche & Erwachsene
@@ -76,7 +80,7 @@ Der Soundtrack ist episch und unterstreicht die melancholische Kriegsatmosphäre
 
 Wer Strategie mag, Mechs cool findet und gerne in alternative Geschichtssettings eintaucht, ist hier genau richtig.
 
-🖥️ Systemanforderungen
+### Systemanforderungen
 ⬜ Läuft auf einem Toaster
 
 ⬜ Anspruchslos
@@ -89,7 +93,7 @@ Wer Strategie mag, Mechs cool findet und gerne in alternative Geschichtssettings
 
 Auf einem halbwegs aktuellen Rechner läuft Iron Harvest solide – die grafische Pracht will aber trotzdem befeuert werden.
 
-⏳ Spielzeit
+### Spielzeit
 ⬜ Kurz
 
 🟩 Durchschnittlich
@@ -100,7 +104,7 @@ Auf einem halbwegs aktuellen Rechner läuft Iron Harvest solide – die grafisch
 
 Allein die Kampagne bietet viele Stunden Inhalt – dazu kommt ein Multiplayer-Modus, der sich auf Dauer richtig entfaltet.
 
-💰 Preis-Leistungs-Verhältnis
+### Preis-Leistungs-Verhältnis
 🟩 Jeden Cent wert
 
 ⬜ Nur im Angebot
