@@ -23,20 +23,30 @@ wirklich "leer" an.
 ### **Grafik**
 
 ✅ Wunderschön
+
 ☐ Stilvoll
+
 ☐ Durchschnittlich
+
 ☐ Veraltet
+
 ☐ MS-DOS
+
 
 Der Grafikstil ist einzigartig – niedlich, morbide und charmant zugleich. Die liebevoll animierten Charaktere und Umgebungen tragen maßgeblich zum Charme des Spiels bei.
 
 ### **Gameplay**
 
 ✅ Sehr gut
+
 ☐ Abwechslungsreich
+
 ☐ Durchschnittlich
+
 ☐ Eintönig
+
 ☐ Unspielbar
+
 
 Die Mischung aus Action-Gameplay und Kult-Management ist kreativ und gut ausbalanciert. Kämpfe fühlen sich dank der zahlreichen Waffen, 
 Zauber und Relikte individuell an – und das Kult-System bietet strategische Tiefe.
@@ -44,10 +54,15 @@ Zauber und Relikte individuell an – und das Kult-System bietet strategische Ti
 ### **Sound & Musik**
 
 ✅ Sehr gut
+
 ✅ Empfehlenswerte Metal-Soundtracks
+
 ☐ Durchschnittlich
+
 ☐ Nichts Besonderes
+
 ☐ Grauenhaft
+
 
 Die Musik ist stimmungsvoll und hebt sich besonders durch exklusive Metal-Tracks hervor. Die Soundkulisse trägt stark zur düsteren, aber 
 humorvollen Atmosphäre bei.
@@ -55,46 +70,67 @@ humorvollen Atmosphäre bei.
 ### **Zielgruppe**
 
 ☐ Kinderfreundlich
+
 ✅ Jugendliche & Erwachsene
+
 ☐ Nur für Hardcore-Spieler
+
 ☐ Oma würde es lieben
+
 
 Wer Roguelikes mag und skurrile Spiele mit schwarzem Humor zu schätzen weiß, wird *Cult of the Lamb* lieben.
 
 ### **Systemanforderungen**
 
 ☐ Läuft auf einem Toaster
+
 ✅ Anspruchslos
+
 ☐ Mittelklasse-PC empfohlen
+
 ☐ Hardware-Hungrig
+
 ☐ Braucht eine NASA-Workstation
+
 
 Das Spiel läuft problemlos auf schwächeren Systemen und ist gut optimiert. Auch auf der Nintendo Switch ist es gut spielbar.
 
 ### **Spielzeit**
 
 ☐ Kurz
+
 ☐ Durchschnittlich
+
 ✅ Lang
+
 ☐ Viel optionaler Content
+
 
 Das Hauptspiel kann in ca. 15–20 Stunden abgeschlossen werden, aber wer alles freischalten und perfektionieren will, kann problemlos 70+ Stunden investieren.
 
 ### **Preis-Leistungs-Verhältnis**
 
 ✅ Jeden Cent wert
+
 ☐ Nur im Angebot
+
 ☐ Überteuert
+
 ☐ Geldverschwendung
+
 
 Für Fans des Genres oder alle, die mal etwas „anderes“ erleben wollen, ist das Spiel sein Geld absolut wert.
 
 ### **Bugs & technische Fehler**
 
 ☐ Fehlerfrei
+
 ✅ Kleinere Bugs
+
 ☐ Störend
+
 ☐ Absolut unspielbar
+
 
 Mein Spieldurchlauf verlief bis auf ein bis zwei kleine Bugs reibungslos. Da das Spiel auch schon seit einer Weile da ist würde ich keine Bugs mehr erwarten.
 
